@@ -1,32 +1,40 @@
 ﻿{
-    "ReverseCategorys": false,
-    "ShowPrivateWorld": false,
-    "Categorys": [
+  "ReverseCategorys": false,
+  "ShowPrivateWorld": false,
+  "Categorys": [
+    {
+      "Category": "雰囲気",
+      "Worlds": [
         {
-            "Category": "雰囲気",
-            "Worlds": [
-                {
-                    "ID": "wrld_9a3e7956-2997-40fb-93ba-f04204cdc763",
-                    "Name": "SayaTown",
-                    "Platform": {
-                        "PC": true,
-                        "Android": false
-                    }              
-                }
-            ]
+          "ID": "wrld_9a3e7956-2997-40fb-93ba-f04204cdc763",
+          "Name": "SayaTown",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
         },
         {
-            "Category": "遊び",
-            "Worlds": [
-                {
-                    "ID": "wrld_b6712de0-16a7-475d-bfa5-844849276a0d",
-                    "Name": "Voxel Phone",
-                    "Platform": {
-                        "PC": true,
-                        "Android": true
-                    },
-                }
-             ]
+          "ID": "wrld_aaf06b6a-8157-4f86-b0b6-7980e6225e13",
+          "Name": "??墓地SteelGraveyard",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
         }
-    ]
+      ]
+    },
+    {
+      "Category": "遊び",
+      "Worlds": [
+        {
+          "ID": "wrld_b6712de0-16a7-475d-bfa5-844849276a0d",
+          "Name": "Voxel Phone",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          }
+        }
+      ]
+    }
+  ]
 }
